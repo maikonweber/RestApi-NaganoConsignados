@@ -1,0 +1,11 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Utilizando o Node.js produção Api que se conecta ao bando de  dados relacional SQl",
+  "main": "index.js",
+  "author": "Maikon <maikonweber@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
